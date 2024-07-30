@@ -1,0 +1,142 @@
+{
+  "Header": {
+    "title": "Welcome to Step Nepal",
+    "paragraph": "Our vision to your future"
+  },
+  "About": {
+    "paragraph": "Welcome to Step Nepal, your trusted partner for navigating Japan's complex visa landscape with expertise and dedication. We specialize in providing comprehensive consulting services for individuals and businesses seeking to obtain and manage various working visas, including SSW (Special Skilled Worker) visas, in Japan.",
+    "Why": [
+      "High Visa Success Rate",
+      "Co-partner Company Established in Japan",
+      "Airport Pickup Service",
+      "Offer Assistance For Any Emergencies During Japan Stay"
+    ],
+    "Why2": [
+      "Pre-interview By The Japanese",
+      "SSW Job Placement",
+      "Engineering Job Placement",
+      "Payment Only After Certificate Of Eligibility(COE)"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "largeImage": "img/portfolio/1.jpg",
+      "smallImage": "img/portfolio/1.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/2.jpg",
+      "smallImage": "img/portfolio/2.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/3.jpg",
+      "smallImage": "img/portfolio/3.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/4.jpg",
+      "smallImage": "img/portfolio/4.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/5.jpg",
+      "smallImage": "img/portfolio/5.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/6.jpg",
+      "smallImage": "img/portfolio/6.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/7.jpg",
+      "smallImage": "img/portfolio/7.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-language",
+      "name": "Japanese Language Class",
+      "text": "As for now we provide N5 and N4 level language classes with affordable fees and study materials. To ensure that each student receives personalized attention, we keep our class sizes small."
+    },
+    {
+      "icon": "fa fa-comments",
+      "name": "Career Counselling",
+      "text": "We provide personalized career counseling based on your skills, qualifications, and interests to help you find the best job opportunities in Japan."
+    },
+    {
+      "icon": "fa fa-file",
+      "name": "Test Preparation",
+      "text": "Whether you're aiming for the JLPT or JFT, effective preparation is the key to your success. Our test preparation services offer you the tools, strategies and support you need to excel. "
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Interview Preparation",
+      "text": "Whether you’re aiming for a role at a Japanese company, or pursuing opportunities that require Japanese language skills, effective preparation is essential for success. Our expert interview preparation services are here to help you navigate the interview process with confidence and poise."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Japan Visa Processing",
+      "text": "Whether you seek a Specified Skilled Worker(SSW) visa for Japan's expanding industries, or a Specialist Engineering visa for technical roles, we provide expert guidance through the intricate application process."
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Pre & Post Departure Assistance",
+      "text": "Once your visa is approved, we assist in preparing for your flight, make necessary arrangements in Japan for pick up & accommodation."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/team01.jpg",
+      "name": "SHRESTHA KRISHNESWOR",
+      "job": "CHIEF EXECUTIVE OFFICER(CEO)"
+    },
+    {
+      "img": "img/team/team02.jpg",
+      "name": "SHRESTHA DURGA",
+      "job": "MANAGING DIRECTOR(MD)"
+    }
+  ],
+  "Contact": {
+    "address": "Madhyapur Thimi-01, Lokanthali, Nepal",
+    "phone": "01-5919081, 9745304295, +81-7089809250(Japan)",
+    "email": "stepnepal2381@gmail.com",
+    "partner": "https://step-japan.net/",
+    "facebook": "https://www.facebook.com/STEPNEPAL39/",
+    "instagram": "https://www.instagram.com/step_nepal/"
+  }
+}
