@@ -4,12 +4,13 @@
     "paragraph": "Our vision to your future"
   },
   "About": {
-    "paragraph": "Welcome to Step Nepal, your trusted partner for navigating Japan's complex visa landscape with expertise and dedication. We specialize in providing comprehensive consulting services for individuals and businesses seeking to obtain and manage various working visas, including SSW (Special Skilled Worker) visas, in Japan.",
+    "paragraph": "Welcome to Step Nepal, your trusted partner for navigating Japan's complex visa landscape with expertise and dedication. We specialize in providing comprehensive consulting services for individuals and businesses seeking to obtain and manage various visas, including SSW (Special Skilled Worker) visas, Student visa and working visa in Japan.",
     "Why": [
       "High Visa Success Rate",
       "Co-partner Company Established in Japan",
       "Airport Pickup Service",
-      "Offer Assistance For Any Emergencies During Japan Stay"
+      "Offer Assistance For Any Emergencies During Japan Stay",
+      "Research and Selection of Institutes for Student"
     ],
     "Why2": [
       "Pre-interview By The Japanese",
@@ -79,7 +80,7 @@
     {
       "icon": "fa fa-plane",
       "name": "Japan Visa Processing",
-      "text": "Whether you seek a Specified Skilled Worker(SSW) visa for Japan's expanding industries, or a Specialist Engineering visa for technical roles, we provide expert guidance through the intricate application process."
+      "text": "Whether you seek a Specified Skilled Worker(SSW) visa for Japan's expanding industries, a Specialist Engineering visa for technical roles, or a Student visa to study in Japan, we provide expert guidance through the intricate application process."
     },
     {
       "icon": "fa fa-briefcase",
