@@ -357,10 +357,9 @@ header .intro-text {
   padding: 100px 0;
 }
 .portfolio-item::after {
-  content: "";
-  display: table;
-  clear: both;
-  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 .portfolio-item .hover-bg {
   height: 250px;
