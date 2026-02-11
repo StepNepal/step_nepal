@@ -19,23 +19,21 @@ export const Gallery = ({ data }) => {
           <h2>Gallery</h2>
         </div>
 
-        <div className="row">
-          <div className="portfolio-items">
-            {data
-              ? data.slice(0, visibleCount).map((d, i) => (
-                  <div
-                    key={`${d.title}-${i}`}
-                    className="col-sm-6 col-md-4 col-lg-4"
-                  >
-                    <Image
-                      title={d.title}
-                      largeImage={d.largeImage}
-                      smallImage={d.smallImage}
-                    />
-                  </div>
-                ))
-              : "Loading..."}
-          </div>
+        <div className="row portfolio-items">
+          {data
+            ? data.slice(0, visibleCount).map((d, i) => (
+                <div
+                  key={`${d.title}-${i}`}
+                  className="col-sm-6 col-md-4 col-lg-4"
+                >
+                  <Image
+                    title={d.title}
+                    largeImage={d.largeImage}
+                    smallImage={d.smallImage}
+                  />
+                </div>
+              ))
+            : "Loading..."}
         </div>
 
         {data && data.length > 6 && (
