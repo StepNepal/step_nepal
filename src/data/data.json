@@ -75,7 +75,12 @@
     {
       "icon": "fa fa-language",
       "name": "Japanese Language Class",
-      "text": "As for now we provide N5 and N4 level language classes with affordable fees and study materials. To ensure that each student receives personalized attention, we keep our class sizes small."
+      "text": "We provide N5 and N4 level language classes with affordable fees. For personalized attention, we keep our class sizes small."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Quality Education",
+      "text": "Get guidance to choose the right Japanese language school, vocational school, or university for your future."
     },
     {
       "icon": "fa fa-comments",
@@ -86,6 +91,11 @@
       "icon": "fa fa-file",
       "name": "Test Preparation",
       "text": "Whether you're aiming for the JLPT or JFT, effective preparation is the key to your success. Our test preparation services offer you the tools, strategies and support you need to excel. "
+    },
+    {
+      "icon": "fa fa-file-text-o",
+      "name": "Application Support",
+      "text": "We assist you with school applications, documentation, and the admission process."
     },
     {
       "icon": "fa fa-users",

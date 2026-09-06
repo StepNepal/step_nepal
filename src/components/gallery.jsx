@@ -40,7 +40,7 @@ export const Gallery = ({ data }) => {
           <button
             onClick={handleShowMore}
             className="btn btn-custom btn-lg"
-            style={{ marginTop: "20px" }}
+            style={{ marginTop: "50px" }}
           >
             {visibleCount >= data.length ? "Show Less" : "Show More"}
           </button>

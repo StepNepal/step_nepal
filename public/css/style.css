@@ -309,6 +309,11 @@ header .intro-text {
   line-height: 24px;
   margin: 30px 0;
 }
+/* Study in Japan Section */
+#study-japan {
+  padding: 100px 0;
+  /* background: linear-gradient(to right, #b8bdef 0%, #f3830b 100%); */
+}
 /* Services Section */
 #services {
   padding: 100px 0;
@@ -316,7 +321,7 @@ header .intro-text {
   color: #fff;
 }
 #services .service-desc {
-  margin: 10px 10px 20px;
+  margin: 10px 10px 10px;
 }
 #services h2 {
   color: #fff;
@@ -332,7 +337,7 @@ header .intro-text {
   left: 50%;
 }
 #services i.fa {
-  font-size: 42px;
+  font-size: 40px;
   width: 120px;
   height: 120px;
   padding: 40px 0;
@@ -350,7 +355,7 @@ header .intro-text {
   color: rgba(255, 255, 255, 0.75);
 }
 #services .service-desc {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 /* Portfolio Section */
 #portfolio {
